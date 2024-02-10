@@ -1,0 +1,5 @@
+# JBangHub Catalog for h2 
+
+This is a catalog of JBang scripts for h2.
+
+Curated and created by the community.

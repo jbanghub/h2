@@ -1,0 +1,10 @@
+{
+  "catalogs": {},
+  "aliases": {
+    "h2": {
+      "script-ref": "com.h2database:h2:2.2.224",
+      "java-agents": []
+    }
+  },
+  "templates": {}
+}
